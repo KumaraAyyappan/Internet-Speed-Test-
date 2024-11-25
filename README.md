@@ -56,8 +56,7 @@ Cross-Platform Support: Improve UI scaling for better usability across various s
 License
 This project is free to use and distribute under the MIT License.
 
-Author
-Developed by Kumara Ayyappan V
+by Kumara Ayyappan V
 Student at Chennai Institute of Technology, Chennai, Tamil Nadu, India.
 
 Enjoy testing your internet speed! 🚀
