@@ -67,9 +67,9 @@ The project relies on the following library:
 - *speedtest-cli:* A command-line interface for testing internet bandwidth.
 
 To install the required dependency, run the following command:
+```bash
+pip install speedtest-cli
 
-
--by Kumara Ayyappan V
 
 
 
